@@ -1,0 +1,67 @@
+html{
+    scroll-behavior:auto!important
+}
+
+
+/*ZONA HEADER*/
+  .header .navbar {
+    background-color: transparent !important;
+  }
+
+
+
+  /*SECCIÓN QUIENES SOMOS*/
+  .quienesSomos{
+      background-color: black;
+      padding-bottom: 80px;
+  }
+
+  /*BLOQUES DE ICONOS*/
+
+.iconos{
+    background-color: rgb(67, 180, 255);
+}
+
+ /*PARRAFOS*/
+ .parrafos{
+     padding:30px;
+ }
+ 
+
+ /*DESTACADOS*/
+ .destacados{
+     background-color: black;
+ }
+
+ .card-body {
+     background-color:rgb(67, 180, 255) ;
+ }
+
+/*CONTACTO*/
+.contacto{
+    background-color: black;
+    padding: 40px;
+    top: 60px;
+    
+}
+
+.contacto p{
+    padding-top: 80px;
+}
+
+.contacto button{
+    margin-bottom: 100px;
+}
+
+
+/*FOOTER*/
+#footer i{
+    margin: 10px;
+}
+
+footer{
+    background-color:rgb(67, 180, 255) ;
+ 
+}
+
+a { color: inherit; }
